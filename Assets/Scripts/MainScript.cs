@@ -33,7 +33,7 @@ public class MainScript : MonoBehaviour
       //  inputTextTemp = inputField.transform.GetChild(0).gameObject;
         input = inputField.GetComponent<InputField>();
         var search = input.text;
-        Debug.Log(search);
+        Debug.Log("I m searching:::::::::::::::::::::::::: "+search);
 
         var results = g_search.Search(search);
 
@@ -63,6 +63,7 @@ public class MainScript : MonoBehaviour
                 //l_text1 = l_temp1.GetComponent<Text>();
                 l_text1 = l_temp1.GetComponent<TextMeshProUGUI>();
                 l_text1.text = result.link;
+                Debug.Log("the link is@@@@@@@@@@@@@@ " + l_text1.text);
 
                 FirstChildIndex += 1;
 

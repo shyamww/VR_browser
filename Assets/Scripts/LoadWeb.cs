@@ -2,26 +2,22 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Networking;
-
+using TMPro;
 
 public class LoadWeb : MonoBehaviour
 {
     const string IP_ADDRESS = "https://peaceful-crag-49779.herokuapp.com/";
-    public string SearchUrl = "https://www.google.com/";
     string uri_image;
     public Renderer meshRender;
-
-    public void main()
+  
+    public void loadWebsite(TextMeshProUGUI searchurl)
     {
-        Debug.Log("main clicked");
-    }
-
-    private void Start()
-    {
-        uri_image = IP_ADDRESS + "webshot?url=" + SearchUrl;
-        // meshRender.material.color = Color.red;
+        Debug.Log("jo dhunhd rhe h mil gya  "+searchurl.text);
+        uri_image = IP_ADDRESS + "webshot?url=" + searchurl.text;
+        //meshRender.material.color = Color.red;
         StartCoroutine(GetWebShotFromUrl(uri_image, true, IP_ADDRESS + "webshot"));
     }
+
     IEnumerator GetWebShotFromUrl(string url, bool isMain, string query)
     {
         Debug.Log(url);
