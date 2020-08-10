@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 1}
-  m_SkyboxMaterial: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
+  m_SkyboxMaterial: {fileID: 2100000, guid: 139dc79985c6c2747839dc90ef479c52, type: 2}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.36425462, g: 0.40584126, b: 0.35694614, a: 1}
+  m_IndirectSpecularColor: {r: 0.65748155, g: 0.66718936, b: 0.5386474, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -2422,7 +2422,7 @@ RectTransform:
   m_GameObject: {fileID: 784178291}
   m_LocalRotation: {x: 0.47493783, y: -0, z: -0, w: 0.88001937}
   m_LocalPosition: {x: 0, y: 0, z: -18.186533}
-  m_LocalScale: {x: 9.0932665, y: 4.546633, z: 4.546633}
+  m_LocalScale: {x: 9.74, y: 4.546633, z: 4.546633}
   m_Children:
   - {fileID: 46528967}
   - {fileID: 1472978224}
@@ -3128,7 +3128,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Search
+  m_Text: Image
 --- !u!222 &906935638
 CanvasRenderer:
   m_ObjectHideFlags: 0

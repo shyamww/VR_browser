@@ -202,7 +202,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -429,7 +429,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 0.8862746, g: 0.882353, b: 0.882353, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -2641,8 +2641,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -2701,7 +2701,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 74072666}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -2863,7 +2863,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -4019,7 +4019,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -4341,8 +4341,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4401,7 +4401,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 153785748}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -5092,8 +5092,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -5152,7 +5152,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 206475118}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -6233,8 +6233,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -6293,7 +6293,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 300555408}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -6388,8 +6388,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293848588
+  m_fontColor: {r: 0.048460312, g: 0.93396187, b: 0.9339623, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -6427,7 +6427,7 @@ MonoBehaviour:
   m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
-  m_isTextTruncated: 1
+  m_isTextTruncated: 0
   m_enableKerning: 1
   m_enableExtraPadding: 0
   checkPaddingRequired: 0
@@ -6448,10 +6448,10 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 341639924}
-    characterCount: 32
+    characterCount: 18
     spriteCount: 0
     spaceCount: 0
-    wordCount: 1
+    wordCount: 3
     linkCount: 0
     lineCount: 1
     pageCount: 1
@@ -7197,8 +7197,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293848588
+  m_fontColor: {r: 0.048460312, g: 0.93396187, b: 0.9339623, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -7526,8 +7526,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -7586,7 +7586,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 396151324}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -8151,7 +8151,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -8950,8 +8950,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -9010,7 +9010,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 503964518}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -9297,8 +9297,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293848588
+  m_fontColor: {r: 0.048460312, g: 0.93396187, b: 0.9339623, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -10268,8 +10268,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -10328,7 +10328,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 561810443}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -12212,8 +12212,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -12272,7 +12272,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 646527904}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -12367,8 +12367,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293848588
+  m_fontColor: {r: 0.048460312, g: 0.93396187, b: 0.9339623, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -12606,7 +12606,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -12733,8 +12733,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -12793,7 +12793,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 673769580}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -14468,8 +14468,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -14528,7 +14528,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 759430953}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -14649,7 +14649,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 0.8862746, g: 0.882353, b: 0.882353, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -15096,7 +15096,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -15209,7 +15209,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 0.8862746, g: 0.882353, b: 0.882353, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -15891,8 +15891,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -15951,7 +15951,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 921352778}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -16168,7 +16168,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 0.8862746, g: 0.882353, b: 0.882353, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -17246,7 +17246,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 0.8862746, g: 0.882353, b: 0.882353, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -17472,7 +17472,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -17681,8 +17681,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -17741,7 +17741,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1018475172}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -18671,8 +18671,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -18731,7 +18731,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1057284850}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -20165,8 +20165,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -20225,7 +20225,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1124510465}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -20320,8 +20320,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -20380,7 +20380,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1137382287}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -20542,7 +20542,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -20918,8 +20918,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -20978,7 +20978,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1178984392}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -21212,7 +21212,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -21545,7 +21545,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -21773,8 +21773,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -21833,7 +21833,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1226781002}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -22109,7 +22109,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -22607,8 +22607,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -22667,7 +22667,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1338962478}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -22762,8 +22762,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -22822,7 +22822,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1341439878}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -23242,7 +23242,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -23604,8 +23604,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -23664,7 +23664,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1405515133}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -23950,7 +23950,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -24242,7 +24242,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -26206,7 +26206,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -26319,7 +26319,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -26565,7 +26565,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -27482,8 +27482,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293848588
+  m_fontColor: {r: 0.048460312, g: 0.93396187, b: 0.9339623, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -28544,7 +28544,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -28853,7 +28853,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -29523,8 +29523,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293848588
+  m_fontColor: {r: 0.048460312, g: 0.93396187, b: 0.9339623, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -30039,8 +30039,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -30099,7 +30099,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1813047616}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -30194,8 +30194,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -30254,7 +30254,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1814880057}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -30762,7 +30762,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -31356,7 +31356,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -31648,7 +31648,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -32298,8 +32298,8 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 0.9245283, g: 0.9245283, b: 0.9245283, a: 0.392}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
+  m_Color: {r: 0.87655747, g: 0.9245283, b: 0.91086775, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
@@ -32794,8 +32794,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -32854,7 +32854,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 1958669267}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
@@ -32975,7 +32975,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -33967,7 +33967,7 @@ MonoBehaviour:
   m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 2100000, guid: e885c406a08b1e14bb2eb17c92441de9, type: 2}
   m_Color: {r: 1, g: 1, b: 1, a: 0.392}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
@@ -34252,8 +34252,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294920452
-  m_fontColor: {r: 0.015686275, g: 0.28627452, b: 1, a: 1}
+    rgba: 4293263104
+  m_fontColor: {r: 0, g: 1, b: 0.89888954, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -34312,7 +34312,7 @@ MonoBehaviour:
   m_margin: {x: 0, y: 0, z: 0, w: 0}
   m_textInfo:
     textComponent: {fileID: 2145713555}
-    characterCount: 15
+    characterCount: 32
     spriteCount: 0
     spaceCount: 0
     wordCount: 1
