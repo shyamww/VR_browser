@@ -14,7 +14,7 @@ public class ImageSearch : MonoBehaviour
     
     private InputField input;
 
-    public string NextIndex = "";
+    public static string NextIndex = "";
     public static string SearchTerm = "ant";
     
     public GoogleSearch g_search = new GoogleSearch("000758091533793376942:vei8xgbnvio", "AIzaSyA4hHhKZxz4DCqs5HUeF08YNZuqU6HtKHs");
@@ -76,7 +76,7 @@ public class ImageSearch : MonoBehaviour
         //var results = g_search.Search(SearchTerm, type);
 
         SearchTerm = g_search.search_terms;
-        NextIndex = g_search.next_index;
+        NextIndex = "11";    // g_search.next_index;
         Debug.Log(NextIndex + "search" + SearchTerm);
         
         int ChildIndex = 0;

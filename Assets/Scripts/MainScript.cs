@@ -13,7 +13,7 @@ public class MainScript : MonoBehaviour
     public GameObject firstPage = null;
     public GameObject inputField = null;
     public GameObject NextPage = null;
-    public string NextIndex = "";
+    public static string NextIndex = "";
     public string SearchTerm = "google";
 
     private GameObject temp1, temp2, temp3, inputTextTemp, l_temp1, l_temp2, l_temp3, l_temp4, l_temp5, l_temp6;
@@ -38,7 +38,7 @@ public class MainScript : MonoBehaviour
         var results = g_search.Search(search);
 
         SearchTerm = g_search.search_terms;
-        NextIndex = g_search.next_index;
+        NextIndex = "11";
         Debug.Log(NextIndex + "search" + SearchTerm);
         int i = 0;
         int FirstChildIndex = 0;
@@ -75,14 +75,15 @@ public class MainScript : MonoBehaviour
             
         }
 
-        NextPage.transform.GetChild(0).gameObject.SetActive(true);
+        //NextPage.transform.GetChild(0).gameObject.SetActive(true);
+        NextPage.SetActive(true);
     }
 
 
     public void SearchNextPage()
     {
-
-        Debug.Log(NextIndex + "and" + SearchTerm);
+   
+        Debug.Log(NextIndex + " next is called:   " + SearchTerm);
 
         var results = g_search.nextPage(SearchTerm, NextIndex);
         SearchTerm = g_search.search_terms;

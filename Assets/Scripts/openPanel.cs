@@ -5,7 +5,7 @@ using UnityEngine;
 public class openPanel : MonoBehaviour
 {
     public GameObject gameObject;
-    public GameObject gameObject1;
+    //public GameObject gameObject1;
     public GameObject gameObject2;
     //public MenuCanvas gameObject1;
     bool active;
@@ -21,7 +21,7 @@ public class openPanel : MonoBehaviour
             gameObject.transform.gameObject.SetActive(false);
             gameObject.active = false;
         }
-
+/*
         if (gameObject1.active == false)
         {
             gameObject1.SetActive(true);
@@ -32,7 +32,7 @@ public class openPanel : MonoBehaviour
             gameObject1.SetActive(false);
             gameObject1.active = false;
         }
-
+        */
         if (gameObject2.active == false)
         {
             gameObject2.transform.gameObject.SetActive(true);
